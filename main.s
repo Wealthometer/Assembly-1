@@ -2,4 +2,4 @@
 
 .intel_syntax noprefix
 
- 
+ _start:
